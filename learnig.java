@@ -47,6 +47,7 @@ public class learnig {
         System.out.println(product);
         System.out.println(quotient);
         System.out.println(modulo);
+        System.out.println(""new"");
 
 
 
